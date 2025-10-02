@@ -14,9 +14,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "postinstall": "npm install --legacy-peer-deps"
-  },
+  
   "eslintConfig": {
     "extends": [
       "react-app",
